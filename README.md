@@ -64,7 +64,7 @@ tor-browser-windows-x86_64-portable-14.5.8.exe /S
 from the **Downloads** folder.
 This triggered a **silent installation** of Tor Browser v14.5.8 without any visible prompts.
 
-<img width="1212" alt="image" src="https://github.com/user-attachments/assets/b07ac4b4-9cb3-4834-8fac-9f5f29709d78">
+<img width="1212" alt="image" src="https://github.com/cham252/Threat-Hunting-Scenario-/blob/main/Scan2.png">
 
 ### 3. Process Execution (DeviceProcessEvents)
 **Query:**
@@ -80,7 +80,7 @@ DeviceProcessEvents
 By **08:23 AM,** multiple instances of firefox.exe and tor.exe were launched, indicating successful Tor Browser startup.
 Executable path observed:
 C:\Users\vmlabuser\Desktop\Tor Browser\Browser\TorBrowser\Tor\tor.exe
-<img width="1212" alt="image" src="https://github.com/user-attachments/assets/b13707ae-8c2d-4081-a381-2b521d3a0d8f">
+<img width="1212" alt="image" src="https://github.com/cham252/Threat-Hunting-Scenario-/blob/main/Scan3.png">
 
 ---
 
@@ -104,7 +104,7 @@ Between **08:17–08:24 AM,** tor.exe and firefox.exe established outbound Tor n
 | 08:24 AM | 140.235.237.13 | 9001 | tor.exe | Tor Relay |
 | 08:24 AM | 45.141.153.214 | 443 | tor.exe | HTTPS |
 | 08:17 AM | 127.0.0.1 | 9150 | firefox.exe | Local SOCKS Proxy |
-<img width="1212" alt="image" src="https://github.com/user-attachments/assets/87a02b5b-7d12-4f53-9255-f5e750d0e3cb">
+<img width="1212" alt="image" src="https://github.com/cham252/Threat-Hunting-Scenario-/blob/main/Scan4.png">
 
 ---
 
