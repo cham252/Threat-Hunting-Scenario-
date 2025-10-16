@@ -44,7 +44,7 @@ DeviceFileEvents
 -	Torbutton.txt
 -	Tor-Launcher.txt
 -	storage.sqlite and other .sqlite database files
-<img width="1212" alt="image" src="https://github.com/user-attachments/assets/71402e84-8767-44f8-908c-1805be31122d">
+<img width="1212" alt="image" src="https://github.com/cham252/Threat-Hunting-Scenario-/blob/main/scan1.png">
 
 ---
 
