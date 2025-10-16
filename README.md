@@ -111,8 +111,7 @@ Between **08:17–08:24 AM,** tor.exe and firefox.exe established outbound Tor n
 ## 5. Chronological Timeline
 
 | Time (UTC-4) | Event | Process | Action |
-|---------------|--------|----------|---------|
-| 07:57 AM | `MpCopyAccelerator.exe` deleted | System | FileDeleted |
+|---------------|--------|----------|-------
 | 07:59 AM | Tor Browser silent install executed | `tor-browser-windows-x86_64-portable-14.5.8.exe` | ProcessCreated |
 | 08:00–08:09 AM | Tor-related files extracted to Desktop | vmlabuser | FileCreated |
 | 08:17–08:24 AM | Outbound Tor connections established | tor.exe | ConnectionSuccess |
